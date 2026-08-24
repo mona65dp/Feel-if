@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Feel-if/sw.js', { scope: '/Feel-if/' })})}
