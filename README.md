@@ -4,6 +4,8 @@
 
 ---
 
+ทดลองใช้แอปพลิเคชัน: https://mona65dp.github.io/Feel-if/
+
 ## 🇹🇭 ภาษาไทย (Thai Version)
 
 ### 📌 เกี่ยวกับแอปพลิเคชัน (About Feel-It)
@@ -60,6 +62,8 @@
 
 <a name="english"></a>
 ## 🇬🇧 English Version
+
+Link App: https://mona65dp.github.io/Feel-if/
 
 ### 📌 About The App
 **Feel-It** is a daily mood tracking and journaling app designed to help you reflect on your feelings, record daily notes, revisit past emotional trends, share insights with others, and view comprehensive overall statistics to better understand your emotional well-being.
